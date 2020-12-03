@@ -6,4 +6,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 @Controller
 public class UserController {
 
+    String Test(){
+        return "11";
+    }
+
 }

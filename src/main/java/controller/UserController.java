@@ -9,5 +9,9 @@ public class UserController {
     String Test(){
         return "11";
     }
+    String Test1() {
+    	return"1";
+    	
+    }
 
 }

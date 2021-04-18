@@ -10,7 +10,8 @@ public class UserController {
         return "11";
     }
     String Test1() {
-    	System.out.println("112");    	
+    	System.out.println("112");
+    	System.out.println("sfsafd");
     	return"1";
     	
     }
